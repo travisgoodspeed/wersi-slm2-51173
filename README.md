@@ -1,6 +1,6 @@
 Howdy y'all,
 
-Wersi is a German manufacturer of electronic organs and panos.  Their
+Wersi is a German manufacturer of electronic organs and pianos.  Their
 antique SL-M2 NR.51173 module contains two Zilog Z0861112PSC
 microcontrollers with programs in diffusion ROM.  My buddy David
 Ryskalczyk politely asked me to photograph that ROM for extraction,
