@@ -4171,7 +4171,7 @@
         "alignthreshold": 5,
         "bitsize": 4,
         "blue": 0,
-        "gatorom": "--decode-cols-downl -i -r 0 ",
+        "gatorom": "--decode-z86x1 -r 0 ",
         "green": 0,
         "inverted": false,
         "linecolor": "#000000",
